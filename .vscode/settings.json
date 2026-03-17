@@ -1,5 +1,5 @@
 {
-  "python.defaultInterpreterPath": "D:\\虚拟教育\\虚拟课堂\\前端\\.venv\\Scripts\\python.exe",
+  "python.defaultInterpreterPath": "D:\\虚拟教育\\虚拟课堂\\CyberClassroom-Streamlit\\.venv\\Scripts\\python.exe",
   "python.terminal.activateEnvironment": true,
   "python.terminal.activateEnvInCurrentTerminal": true,
   "terminal.integrated.defaultProfile.windows": "PowerShell",

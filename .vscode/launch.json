@@ -7,7 +7,7 @@
       "request": "launch",
       "program": "${file}",
       "console": "integratedTerminal",
-      "python": "D:\\虚拟教育\\虚拟课堂\\前端\\.venv\\Scripts\\python.exe"
+      "python": "D:\\虚拟教育\\虚拟课堂\\CyberClassroom-Streamlit\\.venv\\Scripts\\python.exe"
     },
     {
       "name": "C/C++ Runner: Debug Session",
